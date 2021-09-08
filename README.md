@@ -1,7 +1,7 @@
 # RoadArchitect
-[![GitHub release](https://img.shields.io/github/release/FritzsHero/RoadArchitect.svg)](https://github.com/FritzsHero/RoadArchitect/releases/tag/2.0.0)
-[![Github All Releases](https://img.shields.io/github/downloads/FritzsHero/RoadArchitect/total.svg)](https://github.com/FritzsHero/RoadArchitect/releases)
-[![GitHub contributors](https://img.shields.io/github/contributors/FritzsHero/RoadArchitect.svg)](https://github.com/FritzsHero/RoadArchitect/graphs/contributors)
+[![GitHub release](https://img.shields.io/github.com/doubleslyrics/RoadArchitect.svg)](https://github.com/doubleslyrics/RoadArchitect/releases/tag/2.0.0)
+[![Github All Releases](https://img.shields.io/github.com/doubleslyrics/RoadArchitect/total.svg)](https://github.com/doubleslyrics/RoadArchitect/releases)
+[![GitHub contributors](https://img.shields.io/github.com/doubleslyrics/RoadArchitect.svg)](https://github.com/doubleslyrics/RoadArchitect/graphs/contributors)
 [![Chat](https://img.shields.io/badge/chat-on%20discord-lightgrey.svg)](https://discord.gg/cevveEr)
 
 
@@ -11,8 +11,8 @@ Road Architect is currently being developed with the latest Unity LTS release 20
 
 - It is recommend to download a release from the Releases tab
 - The resulting folder should be copied to the root of your Assets directory and named RoadArchitect
-- https://github.com/FritzsHero/RoadArchitect/releases
-- Documentation: https://github.com/FritzsHero/RoadArchitect/wiki
+- https://github.com/doubleslyrics/RoadArchitect/releases
+- Documentation: https://github.com/doubleslyrics/RoadArchitect/wiki
    - Note: The Road Architect menu is located under the "Window" menu.
 
 ## Videos
